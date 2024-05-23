@@ -27,11 +27,11 @@
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/rahul-kachhwah/Contact_Managment_And_Covid_Insights.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [project-name]
+   cd [Contact_Managment_And_Covid_Insights]
    ```
 3. Install dependencies:
    ```bash
