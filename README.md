@@ -27,7 +27,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone --branch dev (https://github.com/rahul-kachhwah/Contact_Managment_And_Covid_Insights.git)
+   git clone --branch dev https://github.com/rahul-kachhwah/Contact_Managment_And_Covid_Insights.git
    ```
 2. Navigate to the project directory:
    ```bash
