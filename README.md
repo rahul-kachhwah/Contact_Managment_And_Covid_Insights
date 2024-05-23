@@ -27,7 +27,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/rahul-kachhwah/Contact_Managment_And_Covid_Insights.git](https://github.com/rahul-kachhwah/Contact_Managment_And_Covid_Insights.git)
+   git clone --branch dev (https://github.com/rahul-kachhwah/Contact_Managment_And_Covid_Insights.git)
    ```
 2. Navigate to the project directory:
    ```bash
@@ -80,7 +80,6 @@ The app uses the following APIs to fetch data:
 <img src="./Screenshots/ss_4.png"/>
 
 </br>
-
 
 ### Charts and Maps Page :-
 
