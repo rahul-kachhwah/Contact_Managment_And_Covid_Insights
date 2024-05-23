@@ -68,25 +68,25 @@ The app uses the following APIs to fetch data:
 
 ### Contact Page :-
 
-<img src="./Contact_Managment_And_Covid_Insights/Screenshots/ss_1.png"/>
+<img src="./Screenshots/ss_1.png"/>
 
 </br>
-<img src="./Contact_Managment_And_Covid_Insights/Screenshots/ss_2.png"/>
+<img src="./Screenshots/ss_2.png"/>
 
 </br>
-<img src="./Contact_Managment_And_Covid_Insights/Screenshots/ss_3.png"/>
+<img src="./Screenshots/ss_3.png"/>
 
 </br>
-<img src="./Contact_Managment_And_Covid_Insights/Screenshots/ss_4.png"/>
+<img src="./Screenshots/ss_4.png"/>
 
 </br>
 
 
 ### Charts and Maps Page :-
 
-<img src="./Contact_Managment_And_Covid_Insights/Screenshots/ss_5.png"/>
+<img src="./Screenshots/ss_5.png"/>
 
 </br>
-<img src="./Contact_Managment_And_Covid_Insights/Screenshots/ss_6.png"/>
+<img src="./Screenshots/ss_6.png"/>
 
 </br>
