@@ -3,13 +3,12 @@
 ## Description
 
 **Contact Management & COVID Insights** is a web application that combines contact management with COVID-19 data visualization. It allows users to manage contacts by adding, updating, and deleting them, as well as view visualizations of COVID-19 cases, deaths, and recoveries over time, along with their distribution across the world.
-**Map is fully interactive by clicking on bar we can choose between the 3 of the lines and on hover over, it will show the counts.**
-**Similarly the map has marker which on click show the covid data of a particular country along with their countries map** 
 
 ## Deployment Link
 
 ## Features
-
+- **Interactive Line Chart:** Users can toggle between different data lines (cases, deaths, and recovered) by clicking on the legend items. Detailed counts are shown on hover.
+- **Interactive Map:** The map displays markers for each country. Clicking on a marker shows a popup with the country's COVID-19 data, including active cases, recovered cases, deaths, and the country's flag.
 - **Contacts Management:** Manage contacts by adding, updating, and deleting them.
 - **Charts & Maps:** View visualizations of COVID-19 cases, deaths, and recoveries over time, as well as distribution across the world.
 - **Responsive Design:** The application is designed to be responsive and works well on different devices.
