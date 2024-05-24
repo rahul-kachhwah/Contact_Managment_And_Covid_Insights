@@ -2,8 +2,17 @@ import React from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { MapProps } from "../types/ItemType";
+import markerIconPng from "../assets/marker.png";
+import L from "leaflet";
 
 const Map: React.FC<MapProps> = ({ countriesData }) => {
+  // Define a custom icon using the PNG file
+  const customMarkerIcon = new L.Icon({
+    iconUrl: markerIconPng,
+    iconSize: [32, 32], 
+    iconAnchor: [16, 32], 
+  });
+
   return (
     <MapContainer
       className="w-full h-full"
@@ -25,6 +34,7 @@ const Map: React.FC<MapProps> = ({ countriesData }) => {
         <Marker
           key={index} // Use index as key for simplicity (make sure it's unique)
           position={[country.countryInfo.lat, country.countryInfo.long]}
+          icon={customMarkerIcon} // Use the custom icon
         >
           {/* Popup with country information */}
           <Popup>
