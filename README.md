@@ -5,6 +5,7 @@
 **Contact Management & COVID Insights** is a web application that combines contact management with COVID-19 data visualization. It allows users to manage contacts by adding, updating, and deleting them, as well as view visualizations of COVID-19 cases, deaths, and recoveries over time, along with their distribution across the world.
 
 ## Deployment Link
+[https://covinsights.netlify.app/](https://covinsights.netlify.app/)
 
 ## Features
 - **Interactive Line Chart:** Users can toggle between different data lines (cases, deaths, and recovered) by clicking on the legend items. Detailed counts are shown on hover.
